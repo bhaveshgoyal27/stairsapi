@@ -1,0 +1,6 @@
+flask 
+opencv-python
+uwsgi
+make_response
+gunicorn
+numpy
